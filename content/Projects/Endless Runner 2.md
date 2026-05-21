@@ -2,6 +2,7 @@ August 2024
 
 *tools: [[Unity]], [[Cluster]]*
 
+An unfinished successor to [[Endless Runner]]. Its goal was to provide somewhere for the people to feel cool and unstoppable while wearing their respective avatars. As a result the game had a more urban aesthetic and parkour-like movement options like wall running and sliding. Development halted after discovering technical limitations of the platform that made it difficult to create advanced platforming gameplay.
 https://cluster.mu/w/15f08a68-9e12-4068-ae7e-e133f0cede06
 
 ![[Screenshot 2024-08-01 182940.png]]

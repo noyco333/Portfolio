@@ -25,10 +25,11 @@ From the top:
 ![[Pasted image 20260521192519.png]]
 
 Some miscellaneous tips:
-- Placing light probes optimally is a complicated science... (unless you have a paid asset to do that for you) but it can allow you to remove smaller static props from the lightmap and save a lot of bake time.![[Pasted image 20260521201723.png]]
+- Placing light probes optimally is a complicated science... (unless you have a paid asset to do that for you, which I don't) but it can allow you to remove smaller static props from the lightmap and save a lot of bake time.![[Pasted image 20260521201723.png]]
 	- Don't place light probes inside of geometry where it might not get any light, because dynamic objects approaching that point will look unnaturally dark.
 	- Place light probes right next to walls on both sides, around corners, and otherwise any place where the lighting condition would change dynamically over small distances.
 	- Make sure there is a layer of "outside" light probes because apparently objects that are reasonably far away from any light probe will still be affected by the nearest light probe.
+	- To minimize the amount of blending needed, Unity will only look at 4 nearest probes for each dynamic mesh renderer. The pink lines in the gizmos are
 - Adjust each static mesh renderer's "Lightmapping / Scale in Lightmap" (e.g. 0.1 for the landscape around the buildings, 2 for important but small and complex meshes like these diner seats and tables, 1 for everything else)
 	- Setting the value to 0 makes it not have a lightmap itself, but contribute to it. Use for things like emissive billboards or surrounding scenery that doesn't really need a lightmap itself but needs to cast shadows, emit and bounce light while baking.
 

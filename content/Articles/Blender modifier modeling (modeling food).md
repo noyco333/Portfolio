@@ -3,7 +3,7 @@ May 19th 2026
 *tools: [[Blender]]*
 *project: [[Marina '88]]*
 
-"non-destructive wizard"
+I'm not good at faking randomness, so I let Blender do it for me. I provide flat and regular shaped slices of bread, tomatoes, lettuce and turkey and let a noise texture dictate its curviness and use the boolean modifier to cut them in a triangle shape (kinda like real cooking).
 
 ![[Pasted image 20260519225056.png]]clubhouse sandwich
 ![[Pasted image 20260519225307.png]]

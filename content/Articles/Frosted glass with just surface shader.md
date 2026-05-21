@@ -2,11 +2,11 @@ May 8th 2026
 
 *tools: [[Unity]], [[HLSL]], [[Cluster]]*
 
-so cool
-
+I like the look of frosted glass in architecture and translucent plastic items, so I made a lightweight shader that mimics that effect with a simple shader (no setup required).
 ![[Screen Recording 2026-05-08 220134.mp4]]
+Its noisy but works well enough in high screen resolution.
 
-It samples the opaque texture / grabpass 9 times to do box blur. Since the samples are more than 1 px apart, I used a hash function to add some noise to the sampling position
+It samples the opaque texture / grabpass 9 times to do box blur. Since the samples are more than 1 px apart, I used a hash function to add some noise to the sampling position.
 
 ```
 Shader "Custom/FrostyGlass"
