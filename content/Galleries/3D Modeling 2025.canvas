@@ -1,24 +1,24 @@
 {
 	"nodes":[
-		{"id":"0abf5f35d42041ba","type":"file","file":"Public/Media/Screenshot 2025-08-11 163809.png","x":-590,"y":-174,"width":399,"height":309},
-		{"id":"9502067f7a512d67","type":"file","file":"Public/Media/Screenshot 2025-08-11 164131.png","x":-120,"y":-174,"width":400,"height":289},
+		{"id":"0abf5f35d42041ba","type":"file","file":"quartz/content/Media/Screenshot 2025-08-11 163809.png","x":-590,"y":-174,"width":399,"height":309},
+		{"id":"9502067f7a512d67","type":"file","file":"quartz/content/Media/Screenshot 2025-08-11 164131.png","x":-120,"y":-174,"width":400,"height":289},
 		{"id":"dc880a0df79e3881","type":"text","text":"Hard surface modeling\nwith subdivision modifier","x":-900,"y":-174,"width":250,"height":60},
 		{"id":"28b70e8e068ec587","type":"text","text":"*tools: [[Blender]]*","x":-960,"y":-480,"width":250,"height":60},
-		{"id":"7fe39079d1a64dc7","type":"file","file":"Public/Media/Screenshot 2025-11-21 001316.png","x":365,"y":209,"width":400,"height":249},
-		{"id":"21d7d0ff9cd0c32b","type":"file","file":"Public/Media/Screen Recording 2025-12-21 152304.mp4","x":-560,"y":239,"width":400,"height":248},
-		{"id":"3a98735991f57dae","type":"file","file":"Public/Media/Screenshot 2025-11-21 150344.png","x":-120,"y":209,"width":400,"height":213},
-		{"id":"0ca2d5ea8673836b","type":"file","file":"Public/Media/Screenshot 2025-08-09 005627.png","x":365,"y":-187,"width":400,"height":336},
-		{"id":"94503d60a5093718","type":"file","file":"Public/Media/Screenshot 2025-12-21 151612 (1).png","x":185,"y":985,"width":580,"height":431},
-		{"id":"26b094931f5bd637","type":"file","file":"Public/Media/Screenshot 2025-08-17 152549.png","x":-511,"y":641,"width":400,"height":301},
-		{"id":"d9e701c40c7b4822","type":"file","file":"Public/Media/Screenshot 2025-12-21 151548 (1).png","x":-91,"y":608,"width":551,"height":377},
-		{"id":"38ab3e8879ce412d","type":"file","file":"Public/Media/Screenshot 2025-12-21 151715 (1).png","x":475,"y":580,"width":708,"height":424},
+		{"id":"7fe39079d1a64dc7","type":"file","file":"quartz/content/Media/Screenshot 2025-11-21 001316.png","x":365,"y":209,"width":400,"height":249},
+		{"id":"21d7d0ff9cd0c32b","type":"file","file":"quartz/content/Media/Screen Recording 2025-12-21 152304.mp4","x":-560,"y":239,"width":400,"height":248},
+		{"id":"3a98735991f57dae","type":"file","file":"quartz/content/Media/Screenshot 2025-11-21 150344.png","x":-120,"y":209,"width":400,"height":213},
+		{"id":"0ca2d5ea8673836b","type":"file","file":"quartz/content/Media/Screenshot 2025-08-09 005627.png","x":365,"y":-187,"width":400,"height":336},
+		{"id":"94503d60a5093718","type":"file","file":"quartz/content/Media/Screenshot 2025-12-21 151612 (1).png","x":185,"y":985,"width":580,"height":431},
+		{"id":"26b094931f5bd637","type":"file","file":"quartz/content/Media/Screenshot 2025-08-17 152549.png","x":-511,"y":641,"width":400,"height":301},
+		{"id":"d9e701c40c7b4822","type":"file","file":"quartz/content/Media/Screenshot 2025-12-21 151548 (1).png","x":-91,"y":608,"width":551,"height":377},
+		{"id":"38ab3e8879ce412d","type":"file","file":"quartz/content/Media/Screenshot 2025-12-21 151715 (1).png","x":475,"y":580,"width":708,"height":424},
 		{"id":"208ab1ac73c88ce6","type":"text","text":"Environment modeling practice","x":-775,"y":680,"width":250,"height":60},
 		{"id":"ead3fad07bc23229","type":"text","text":"Weapon handling animation practice","x":-900,"y":284,"width":250,"height":50},
-		{"id":"3e9c5a270f7dfcbe","type":"file","file":"Public/Media/Screenshot 2025-12-21 151406 (2).png","x":-525,"y":1052,"width":657,"height":364},
 		{"id":"ab4a97cb755f4aba","type":"text","text":"Geometry Nodes","x":933,"y":1004,"width":250,"height":60},
-		{"id":"3251bb4b41babe1f","type":"file","file":"Public/Media/Screenshot 2025-08-08 232138.png","x":783,"y":-174,"width":400,"height":250},
+		{"id":"3251bb4b41babe1f","type":"file","file":"quartz/content/Media/Screenshot 2025-08-08 232138.png","x":783,"y":-174,"width":400,"height":250},
 		{"id":"1da638242b1ecec7","type":"text","text":"*project: [[Drift Abyss]]*","x":783,"y":90,"width":250,"height":50},
-		{"id":"126a3f085fe9a450","type":"text","text":"*tools: [[Unity]], [[Cluster]]*\n*project: [[E. O. S.]]*\n\nEnvironment design is hard, especially for a solo dev. Like I don’t have the time to be placing every little blade of grass everywhere. Geometry shader in-engine are the way to go for grass patches nowadays, but it doesnt allow for finely controlled grass…\n\nSo I began constructing a workflow in Blender to automate these processes namely by using **Geometry Nodes**\n\nInspired by games like Stray, Arc Raiders and artists like acloudyskye, I wanted to make a post-apocalyptic world thats kind of industrial and nuclear-facility like. I also wanted to make it into a Cluster world with a twist- the world would explode like every 30 minutes and everyone gathers to chill while the world ends. So angsty.","x":-525,"y":1416,"width":710,"height":404}
+		{"id":"126a3f085fe9a450","type":"text","text":"*tools: [[Unity]], [[Cluster]]*\n*project: [[E. O. S.]]*\n\nEnvironment design is hard, especially for a solo dev. Like I don’t have the time to be placing every little blade of grass everywhere. Geometry shader in-engine are the way to go for grass patches nowadays, but it doesnt allow for finely controlled grass…\n\nSo I began constructing a workflow in Blender to automate these processes namely by using **Geometry Nodes**\n\nInspired by games like Stray, Arc Raiders and artists like acloudyskye, I wanted to make a post-apocalyptic world thats kind of industrial and nuclear-facility like. I also wanted to make it into a Cluster world with a twist- the world would explode like every 30 minutes and everyone gathers to chill while the world ends. So angsty.","x":-525,"y":1416,"width":710,"height":404},
+		{"id":"3e9c5a270f7dfcbe","type":"file","file":"quartz/content/Media/Screenshot 2025-12-21 151406 (2).png","x":-525,"y":1052,"width":657,"height":364}
 	],
 	"edges":[]
 }
