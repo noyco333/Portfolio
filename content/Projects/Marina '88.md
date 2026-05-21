@@ -2,7 +2,7 @@
 
 *tools: [[Unity]], [[Blender]], [[Cluster]]*
 
-Revival of a leftover project from [[Anju Moriya]]. Functionally a successor to [[8LEGS DINER]].
+A successor to [[8LEGS DINER]].
 
 The goal of the project is to create a visually striking, novel yet welcoming hangout spot where visitors can participate in immersive activities that fosters communication.
 

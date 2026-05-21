@@ -6,7 +6,6 @@ March 31st 2026
 MToon is a shader most commonly used for rendering anime-style characters in Unity. However, with some effort, it can be fitted to render other anime-style things like vehicles.
 
 ![[20260501-0519-21.0724357.mp4]]
-*Porsche 911 Carrera model by [[Anju Moriya]]*
 
 The rim light of the car paint, reflection of the rubber and the sheen on the window is provided by a unique matcap texture I made in [[Adobe Illustrator]]
 ![[matcaps-03.png|178]]![[matcaps-01.png|178]]![[matcaps-02.png|178]]
