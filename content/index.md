@@ -3,6 +3,6 @@ title: Welcome!
 ---
 Here I ([[Ryan Moriya]]) will leave half-baked articles about my experiments and studies mostly in programming.
 
-The most readable and self-contained pages are in [Articles](articles/).  Also check out [Projects](projects/) and [Galleries](galleries/) to see more of my work.
+The most readable and self-contained pages are in [Articles](https://noyco333.github.io/Portfolio/Articles/).  Also check out [Projects](https://noyco333.github.io/Portfolio/Projects/) and [Galleries](https://noyco333.github.io/Portfolio/Galleries/) to see more of my work.
 
 Thank you for visiting!
