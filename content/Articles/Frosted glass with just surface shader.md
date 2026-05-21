@@ -1,4 +1,4 @@
-2026 May 8th
+May 8th 2026
 
 *tools: [[Unity]], [[HLSL]], [[Cluster]]*
 

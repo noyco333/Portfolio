@@ -1,5 +1,4 @@
-#project
-2024 August
+August 2024
 
 *tools: [[Unity]], [[Cluster]]*
 

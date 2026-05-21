@@ -1,7 +1,6 @@
-#project 
+2026 May ~
 
 *tools: [[Unity]], [[Blender]], [[Cluster]]*
-2026 May ~
 
 Revival of a leftover project from [[Anju Moriya]]. Functionally a successor to [[8LEGS DINER]].
 

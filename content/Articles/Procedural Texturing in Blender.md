@@ -1,4 +1,4 @@
-2026 May 19
+May 19th 2026
 
 *tools: [[Blender]]*
 *project: [[Marina '88]]*

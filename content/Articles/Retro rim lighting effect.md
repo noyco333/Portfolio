@@ -1,4 +1,4 @@
-2026 April 30 (updated May 11th)
+April 30th 2026  (updated May 11th)
 
 *tools: [[Unity]], [[HLSL]], [[Cluster]]*
 *project: [[Marina '88]]*
@@ -6,14 +6,14 @@
 I made a shader that adds thick, stylized rim lighting effect that works for both smooth and sharp 3D objects using the depth buffer.
 
 Most rim light solutions online uses the fresnel effect, which works fine for round edges but the width is unstable and unusable for objects with sharp edges:
-![[Pasted image 20260430230633.png]]
+![[Pasted image 20260430230633.png|638]]
 
 Instead I was looking more of a flat, blocky rim light that's really bold and cool in my opinion.
-![[Pasted image 20260430231105.png]]
+![[Pasted image 20260430231105.png|443]]
 *source: Scott Pilgrim Takes Off (2023)*
 
 I'm like 90% sure PEAK is one of the very few example where this technique is used in a video game...
-![[Pasted image 20260430233050.png]]
+![[Pasted image 20260430233050.png|432]]
 *source: NGOHQ.com*
 
 For each pixel the shader samples the depth buffer at that position and also at a position slightly offset in the direction which the main light is coming from. If there is a big enough drop (for example, the current pixel is Scott whos 2 meters from the camera and the offset pixel is the back wall thats 20 meters from the camera) then that pixel will be painted over with the color of the main light.

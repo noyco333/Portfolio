@@ -1,4 +1,4 @@
-2026 April
+April 2026 ~
 
 I made a [[Coconala]] account by the name of モブタコ
 

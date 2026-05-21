@@ -1,4 +1,4 @@
-2025 December 20
+December 20th 2025
 
 *tools: [[Unity]], [[Cluster]]*
 *project: [[8LEGS GALAXY]]*
