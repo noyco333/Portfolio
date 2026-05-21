@@ -1,9 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome
 ---
+This is where I ([[Ryan Moriya]]) dump daily experiments and articles.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-
-testt
