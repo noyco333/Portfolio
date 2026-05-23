@@ -6,6 +6,9 @@ A successor to [[8LEGS DINER]].
 
 The goal of the project is to create a visually striking, novel yet welcoming hangout spot where visitors can participate in immersive activities that fosters communication.
 
+---
+**Development history**
+
 [[Using annotations in Blender for planning large scenes]]
 ![[Screenshot 2026-05-01 225001 1.png]]
 
