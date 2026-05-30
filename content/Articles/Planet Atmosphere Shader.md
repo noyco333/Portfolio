@@ -181,6 +181,7 @@ Shader "Unlit/Atmosphere"
 ```
 
 
+
 Sources:
 https://youtu.be/DxfEbulyFcY?si=7n5lP16WnaBjW7L8
 https://www.alanzucconi.com/2017/10/10/shader-atmospheric-sphere/
