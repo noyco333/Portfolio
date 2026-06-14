@@ -1,0 +1,1 @@
+The GNU Image Manipulation Program, commonly known by its acronym GIMP (/ɡɪmp/ ⓘ GHIMP; always stylized in capitals; formerly, The GIMP), is a free and open-source raster graphics editor. - Wikipedia
