@@ -20,6 +20,7 @@ For each pixel the shader samples the depth buffer at that position and also at 
 
 Looks like this in action:
 ![[20260430-1419-58.5722771.mp4]]
+![[S__41975820 1.jpg]]
 
 new (less issues with distance and low viewing angle):
 ```

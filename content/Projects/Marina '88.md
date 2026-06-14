@@ -23,7 +23,7 @@ tetrapod explosion bug
 
 looks good with rim lighting
 ![[Screenshot 2026-05-07 213634.png]]
-![[S__41975820.jpg]]
+![[S__41975820 1.jpg]]
 
 procedural palm tree leaves baked into texture
 ![[Pasted image 20260511212229.png]]
