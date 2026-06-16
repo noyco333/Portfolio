@@ -18,6 +18,10 @@ Thank you for visiting!
 ### [[Retro rim lighting effect]]
 ![[Portfolio/content/Media/S__41975820 1.jpg]]
 
+### [[p5 projects]]
+
+![[thrdp5.gif|511]]
+
 ---
 ### [Articles](https://noyco333.github.io/Portfolio/Articles/)
 ### [Projects](https://noyco333.github.io/Portfolio/Projects/)
