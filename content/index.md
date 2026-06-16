@@ -10,16 +10,15 @@ Thank you for visiting!
 # Featured Articles
 
 ### [[Drift Abyss]]
-![[Portfolio/content/Media/driftabyssdevhistory.png]]
+![[driftabyssdevhistory.png]]
 
 ### [[Optimizing baked lighting in Unity (Built-in render pipeline)]]
-![[Portfolio/content/Media/Pasted image 20260521192519.png]]
+![[Pasted image 20260521192519.png]]
 
 ### [[Retro rim lighting effect]]
-![[Portfolio/content/Media/S__41975820 1.jpg]]
+![[S__41975820 1.jpg]]
 
 ### [[p5 projects]]
-
 ![[thrdp5.gif|511]]
 
 ---
