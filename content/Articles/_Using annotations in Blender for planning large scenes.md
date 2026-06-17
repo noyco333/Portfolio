@@ -1,5 +1,5 @@
 ---
-title: Using annotations in Blender for planning large scenes
+title: Using annotations in Blender for planning a large scene
 ---
 May 2nd 2026
 
