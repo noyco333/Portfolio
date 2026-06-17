@@ -1,3 +1,6 @@
+---
+title: Using annotations in Blender for planning large scenes
+---
 May 2nd 2026
 
 *tools: [[Blender]]*
