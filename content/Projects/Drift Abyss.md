@@ -12,7 +12,7 @@ Drift Abyss is a VR project that lets users explore an infinitely large surreal 
 # Development History
 ---
 ## 1. Discovering the Marching Cubes algorithm
-I initially learned about procedural terrain generation in video games through [[Minecraft]]. However, my eyes were opened when I came across [a YouTube video from Sebastian Lague](https://youtu.be/_eVpf6hItuw) that showcased the [marching cubes algorithm](https://en.wikipedia.org/wiki/Marching_cubes) which, unlike Minecraft, could generate intricate meshes without looking blocky. Given enough resolution, it could turn just about any 3D equation or volume data into solid mesh that a player might walk on.
+I initially learned about procedural terrain generation in video games through [[Minecraft]]. However, my eyes were opened when I came across [a YouTube video from Sebastian Lague](https://youtu.be/M3iI2l0ltbE) that showcased the [marching cubes algorithm](https://en.wikipedia.org/wiki/Marching_cubes) which, unlike Minecraft, could generate intricate meshes without looking blocky. Given enough resolution, it could turn just about any 3D equation or volume data into solid mesh that a player might walk on.
 
 I made my first prototype of infinite 3D terrain in [[Unity]].
 ![[DADH0.mp4]]
