@@ -6,6 +6,8 @@ July 2021 ~
 
 https://store.steampowered.com/app/2368780/Drift_Abyss/
 
+### Drift Abyss is my longest 5+ year project beginning Summer 2021 and ongoing.
+
 Drift Abyss is a VR project that lets users explore an infinitely large surreal landscape that is unique to each run. The goal of the project was to translate the beauty of procedural generation into an immersive and easily navigable format so people who aren't algorithm nerds can experience it too.
 # Development History
 ---
@@ -73,11 +75,13 @@ Drift Abyss went on a few other exhibitions.
 [Softbank EBC](https://www.softbank.jp/biz/about/ebc/)
 ![[IMG_3045.jpeg]]
 
-[XR Kaigi 2022](https://www.xrkaigi.com/event/9316)
+[XR Kaigi 2022](https://www.xrkaigi.com/)
 ![[322B4A5A-73F3-4CB3-A745-B3E55ECC40BE.jpg|697]]
+
+I received the U-22 grand prize at XR Kaigi 2022 (I'm the one wearing the crimson shirt)
 ![[IMG_4637.jpg]]
 
-Youichi Ochiai's New Year party (2022 -> 2023)
+[Youichi Ochiai](https://yoichiochiai.com/)'s New Year party (2022 -> 2023)
 ![[0E0DCE6B-54B1-42DB-B5D2-1E7BADAD72E7.jpg]]
 ![[Pasted image 20260523141318.png]]
 
@@ -146,3 +150,5 @@ I settled on making a few preset meshes that will be combined in a random combin
 I also experimented with random biome combinations again, but this time, in a way that avoids unnecessary duplicated work. Each biome generation code is now split into modules so variations of similar features can be swapped with each other seamlessly.
 ![[Screenshot 2025-08-27 212532.png]]
 ![[Screenshot 2024-10-16 211219 1.png]]![[Screenshot 2024-10-16 224936.png]]![[Screenshot 2024-09-28 010441.png]]
+
+The newest version is currently live on [SoftBankEBC](https://www.softbank.jp/biz/about/ebc/).

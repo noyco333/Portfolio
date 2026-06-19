@@ -6,7 +6,7 @@ December 2021
 
 A co-op 3D platforming game made with the goal to allow experienced players to help newbies and show off while inexperienced players get to stand on the shoulder of giants. 
 
-![[ae045c02-e1fc-46f6-b376-6a0abf7050a6 (1).png]]
+![[endlessrunnerclip.mp4]]
 
 It featured four areas each with several platforming areas that are randomly arranged during the run. At the end of each stage is a door with two buttons, and if there are more than two runners, both buttons must be pressed to proceed to the next area.
 

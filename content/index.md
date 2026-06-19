@@ -3,9 +3,7 @@ title: Welcome!
 ---
 Hi! I'm [[Ryan Moriya]], and this is my portfolio / knowledgebase! Here I write articles about my experiments and studies mostly in programming.
 
----
 # Featured Articles
-
 ### [[Drift Abyss]]
 ![[driftabyssdevhistory.png]]
 
@@ -20,10 +18,3 @@ Hi! I'm [[Ryan Moriya]], and this is my portfolio / knowledgebase! Here I write 
 
 ### [[p5 projects]]
 ![[thrdp5.gif|511]]
-
----
-### [Articles](https://noyco333.github.io/Portfolio/Articles/)
-### [Projects](https://noyco333.github.io/Portfolio/Projects/)
-### [Galleries](https://noyco333.github.io/Portfolio/Galleries/)
-
----
