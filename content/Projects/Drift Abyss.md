@@ -57,11 +57,9 @@ I set up an Instagram account to help advertise the exhibition.
 With help from my family and the generous staff at HIBIYA OKUROJI, we set up an exhibition that consisted of the VR experience itself, some of my pixel art pieces and animated projection mapping.
 ![[IMG_2963.jpeg]]
 ![[35287177-A231-4307-A44A-B6813111305B.jpg]]
-![[arttacoselect.png]]
 
 I created a virtual replica of the room in Unity to plan out the layout for projection mapping.
 ![[IMG_2971.jpeg|324]]![[IMG_2970.jpeg|313]]
-![[IMG_2972.jpeg]]
 ![[IMG_2997.jpeg]]
 #### 5.3 letting the public experience Drift Abyss
 I added a streamlined mode for those who are new to VR or interactive media where they are only able to move on a predetermined track. This way, we wouldn't have to worry about the visitors not knowing the controls well and falling infinitely into the caves without exploring much of the world at all (which happened frequently at the beginning of the exhibition).
