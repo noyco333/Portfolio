@@ -9,6 +9,7 @@ https://cluster.mu/w/1b24895d-16ee-4c90-9ded-9daf2e6a5c2b
 
 I hypothesized that, even in the metaverse, the best place for people to hang out and socialize are restaurants. I optimized it for realtime rendering on mobile devices and added immersive gimmicks to the world including drivable vehicles, playable arcades, simple cooking and cleaning jobs and a working jukebox with a collection of classic songs (that are no longer protected by copyright law).
 
+![[Screen Recording 2026-06-20 171230.mp4]]
 ![[cluster 2022-12-24 23-30-49_Trim (2).mp4]]
 ![[f301bd80-8987-4990-b213-ccb36a9e4d7d.png]]
 ![[5a476e11-c1e6-44bb-821c-a2caa2def1c0.png]]
