@@ -30,6 +30,8 @@
 
 ![[Masason Foundation]]
 
+![[Empower Europe Program]]
+
 ![[TKS Virtual Program]]
 
 ![[Coding mentor volunteer activity at Shinagawa]]
