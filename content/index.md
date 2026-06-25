@@ -4,6 +4,10 @@ title: Welcome!
 Hi! I'm [[Ryan Moriya]], and this is my portfolio / knowledgebase! Here I write articles about my experiments and studies mostly in programming.
 
 # Featured Articles
+
+### [[Achievements and Affiliations Overview]]
+![[image1.jpg]]
+
 ### [[Drift Abyss]]
 ![[driftabyssdevhistory.png]]
 

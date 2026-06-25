@@ -46,7 +46,7 @@ The most intuitive VR control schemes are the ones where you don't use any butto
 ## 5. Promoting and hosting exhibitions
 Summer 2022
 
-I signed Drift Abyss up for the [Project to Support Emerging Media Arts Creators](https://creators.j-mediaarts.bunka.go.jp/) and received funding to continue the development. I used the funds to promote Drift Abyss on social media and host an exhibition in [HIBIYA OKUROJI](https://www.jrtk.jp/hibiya-okuroji/).
+I signed Drift Abyss up for [[The Project to Support Emerging Media Arts Creators]] and received funding to continue the development. I used the funds to promote Drift Abyss on social media and host an exhibition in [HIBIYA OKUROJI](https://www.jrtk.jp/hibiya-okuroji/).
 
 #### 5.1 Promoting on social media
 I set up an Instagram account to help advertise the exhibition.
@@ -70,13 +70,13 @@ I added a streamlined mode for those who are new to VR or interactive media wher
 #### 5.4 Other exhibitions
 Drift Abyss went on a few other exhibitions.
 
-[Softbank EBC](https://www.softbank.jp/biz/about/ebc/)
+[[SoftBank Executive Briefing Center]]
 ![[IMG_3045.jpeg]]
 
-[XR Kaigi 2022](https://www.xrkaigi.com/)
+[[XR Kaigi 2022]]
 ![[322B4A5A-73F3-4CB3-A745-B3E55ECC40BE.jpg|697]]
 
-I received the U-22 grand prize at XR Kaigi 2022 (I'm the one wearing the crimson shirt)
+I received the U-22 grand prize at [[XR Kaigi 2022]] (I'm the one wearing the crimson shirt)
 ![[IMG_4637.jpg]]
 
 [Youichi Ochiai](https://yoichiochiai.com/)'s New Year party (2022 -> 2023)
@@ -149,4 +149,4 @@ I also experimented with random biome combinations again, but this time, in a wa
 ![[Screenshot 2025-08-27 212532.png]]
 ![[Screenshot 2024-10-16 211219 1.png]]![[Screenshot 2024-10-16 224936.png]]![[Screenshot 2024-09-28 010441.png]]
 
-The newest version is currently live on [SoftBankEBC](https://www.softbank.jp/biz/about/ebc/).
+The newest version is currently live on [[SoftBank Executive Briefing Center]].
