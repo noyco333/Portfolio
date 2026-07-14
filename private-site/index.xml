@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Ryan Moriya</title>
+      <link>https://noyco333.github.io/Portfolio</link>
+      <description>Last 10 notes on Ryan Moriya</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>25th JAPAN MEDIA ARTS FESTIVAL</title>
+    <link>https://noyco333.github.io/Portfolio/achievements-and-affiliations/25th-japan-media-arts-festival</link>
+    <guid>https://noyco333.github.io/Portfolio/achievements-and-affiliations/25th-japan-media-arts-festival</guid>
+    <description><![CDATA[ 2022: 25th JAPAN MEDIA ARTS FESTIVAL U-18 Award The Japan Media Arts Festival is a media arts event organized by the Agency for Cultural Affairs of Japan, which honors top project submissions in four categories: Art, Entertainment, Animation, and Manga. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:51:55 GMT</pubDate>
+  </item><item>
+    <title>TECH KIDS GRAND PRIX</title>
+    <link>https://noyco333.github.io/Portfolio/achievements-and-affiliations/tech-kids-grand-prix</link>
+    <guid>https://noyco333.github.io/Portfolio/achievements-and-affiliations/tech-kids-grand-prix</guid>
+    <description><![CDATA[ 2019: TECH KIDS GRAND PRIX 3rd place TECH KIDS GRAND PRIX is the largest elementary school programming contest in Japan. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:51:55 GMT</pubDate>
+  </item><item>
+    <title>The Project to Support Emerging Media Arts Creators</title>
+    <link>https://noyco333.github.io/Portfolio/achievements-and-affiliations/the-project-to-support-emerging-media-arts-creators</link>
+    <guid>https://noyco333.github.io/Portfolio/achievements-and-affiliations/the-project-to-support-emerging-media-arts-creators</guid>
+    <description><![CDATA[ 2021: Selected for The Project to Support Emerging Media Arts Creators August 2022: Hosted a two-week VR exhibition at Hibiya Okuroji The Domestic Project to Support Emerging Media Arts Creators is a program hosted by the Agency for Cultural Affairs to foster and support domestic media art curators. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:51:55 GMT</pubDate>
+  </item><item>
+    <title>XR Kaigi 2022</title>
+    <link>https://noyco333.github.io/Portfolio/achievements-and-affiliations/xr-kaigi-2022</link>
+    <guid>https://noyco333.github.io/Portfolio/achievements-and-affiliations/xr-kaigi-2022</guid>
+    <description><![CDATA[ December 2022: Visionary Talk Speaker December 2022: U25 sector Best Project Award XR Kaigi (Kaigi meaning “conference”) is an annual Japanese conference between the leaders of VR, AR, MR and metaverse development. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:51:55 GMT</pubDate>
+  </item><item>
+    <title>Blender modifier modeling (modeling food)</title>
+    <link>https://noyco333.github.io/Portfolio/articles/blender-modifier-modeling-(modeling-food)</link>
+    <guid>https://noyco333.github.io/Portfolio/articles/blender-modifier-modeling-(modeling-food)</guid>
+    <description><![CDATA[ May 19th 2026 tools: Blender project: Marina ‘88 I’m not good at faking randomness, so I let Blender do it for me. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:51:55 GMT</pubDate>
+  </item><item>
+    <title>Examining Cluster builds to minimize download size</title>
+    <link>https://noyco333.github.io/Portfolio/articles/examining-cluster-builds-to-minimize-download-size</link>
+    <guid>https://noyco333.github.io/Portfolio/articles/examining-cluster-builds-to-minimize-download-size</guid>
+    <description><![CDATA[ May 20th 2026 tools: Unity, Cluster I’ve made a lot of worlds in the metaverse platform Cluster, and one of the things I care about is accessibility for mobile users. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:51:55 GMT</pubDate>
+  </item><item>
+    <title>Frosted glass with just surface shader</title>
+    <link>https://noyco333.github.io/Portfolio/articles/frosted-glass-with-just-surface-shader</link>
+    <guid>https://noyco333.github.io/Portfolio/articles/frosted-glass-with-just-surface-shader</guid>
+    <description><![CDATA[ May 8th 2026 tools: Unity, HLSL, Cluster I like the look of frosted glass in architecture and translucent plastic items, so I made a lightweight shader that mimics that effect with a simple shader (no setup required). ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:51:55 GMT</pubDate>
+  </item><item>
+    <title>MToon shader study</title>
+    <link>https://noyco333.github.io/Portfolio/articles/mtoon-shader-study</link>
+    <guid>https://noyco333.github.io/Portfolio/articles/mtoon-shader-study</guid>
+    <description><![CDATA[ March 31st 2026 tools: Unity, Cluster project: Marina ‘88 MToon is a shader most commonly used for rendering anime-style characters in Unity. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:51:55 GMT</pubDate>
+  </item><item>
+    <title>Optimizing baked lighting in Unity (Built-in render pipeline)</title>
+    <link>https://noyco333.github.io/Portfolio/articles/optimizing-baked-lighting-in-unity-(built-in-render-pipeline)</link>
+    <guid>https://noyco333.github.io/Portfolio/articles/optimizing-baked-lighting-in-unity-(built-in-render-pipeline)</guid>
+    <description><![CDATA[ May 21st 2026 tools: Unity, Cluster project: 8LEGS DINER The default Unity settings for lighting can be suboptimal in many cases. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:51:55 GMT</pubDate>
+  </item><item>
+    <title>Planet Atmosphere Shader</title>
+    <link>https://noyco333.github.io/Portfolio/articles/planet-atmosphere-shader</link>
+    <guid>https://noyco333.github.io/Portfolio/articles/planet-atmosphere-shader</guid>
+    <description><![CDATA[ December 20th 2025 tools: Unity, Cluster project: 8LEGS GALAXY Tried my hand at making an atmosphere shader. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:51:55 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

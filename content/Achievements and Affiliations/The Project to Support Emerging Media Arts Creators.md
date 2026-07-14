@@ -1,3 +1,6 @@
+---
+publish: true
+---
 2021: Selected for The Project to Support Emerging Media Arts Creators
 
 August 2022: Hosted a two-week VR exhibition at Hibiya Okuroji

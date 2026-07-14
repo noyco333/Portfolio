@@ -1,3 +1,6 @@
+---
+draft: true
+---
 June 2026
 
 *tools: [[Godot]]*
@@ -6,11 +9,10 @@ https://noyco333.github.io/WebParkourBuild/
 
 ![[Pasted image 20260606134356.png]]
 
-- Mirror's edge inspired
 - Target platform: browser
 - Running acceleration
 - Vaulting and climbing
-- Three input format (Controller, Keyboard and mouse, Keyboard and no mouse (for all the school Chromebook people out there lmao))
+- Three input format (Controller, Keyboard and mouse, Keyboard and no mouse (for all the school Chromebook people out there ))
 - Immersive audio design
 - Minimal / immersive UI
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 2026 May ~
 
 *tools: [[Unity]], [[Blender]], [[Cluster]]*

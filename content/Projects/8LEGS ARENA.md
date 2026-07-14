@@ -1,3 +1,6 @@
+---
+publish: true
+---
 July 2024
 
 *tools: [[Unity]], [[Cluster]]*

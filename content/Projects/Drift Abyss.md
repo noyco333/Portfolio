@@ -1,3 +1,6 @@
+---
+publish: true
+---
 July 2021 ~
 
 *tools: [[Unity]], [[Blender]], [[OpenXR]], [[Steam]]

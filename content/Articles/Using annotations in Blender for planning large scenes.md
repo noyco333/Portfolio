@@ -1,3 +1,6 @@
+---
+publish: true
+---
 May 2nd 2026
 
 *tools: [[Blender]]*

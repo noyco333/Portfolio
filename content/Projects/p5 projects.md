@@ -1,3 +1,6 @@
+---
+publish: true
+---
 *tools: [[p5.js]]*
 
 ## Description (card game)

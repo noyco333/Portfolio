@@ -1,3 +1,6 @@
+---
+publish: true
+---
 April 30th 2026  (updated May 11th)
 
 *tools: [[Unity]], [[HLSL]], [[Cluster]]*

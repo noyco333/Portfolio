@@ -1,3 +1,6 @@
+---
+draft: true
+---
 December 2025
 
 *tools: [[Unity]], [[Blender]], [[Cluster]]*

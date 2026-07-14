@@ -1,3 +1,6 @@
+---
+publish: true
+---
 2022: 25th JAPAN MEDIA ARTS FESTIVAL U-18 Award
 
   

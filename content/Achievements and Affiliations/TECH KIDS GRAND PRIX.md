@@ -1,3 +1,6 @@
+---
+publish: true
+---
 2019: TECH KIDS GRAND PRIX 3rd place
 
   

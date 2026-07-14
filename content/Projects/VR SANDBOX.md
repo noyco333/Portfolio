@@ -1,3 +1,6 @@
+---
+publish: true
+---
 2021
 
 *tools: [[Unity]], [[OpenXR]]
