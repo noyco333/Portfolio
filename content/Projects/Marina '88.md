@@ -23,8 +23,10 @@ Actually drove to some nearby marinas to take reference pictures
 
 tetrapod explosion bug
 ![[Screenshot 2026-05-11 130001.png]]
+don't forget to make your mesh instances unique if necessary
 
-looks good with rim lighting
+Cluster does not support custom post processing effects, but I achieved something similar by attaching a sphere mesh with a custom shader onto the camera with a vertex shader.
+[[Retro rim lighting effect]]
 ![[Screenshot 2026-05-07 213634.png]]
 ![[S__41975820 1.jpg]]
 
@@ -45,3 +47,12 @@ kitchen in the works
 
 cooking system
 ![[Screen Recording 2026-06-14 124016.mp4]]
+
+Tuning the lighting
+Related article:[[Optimizing baked lighting in Unity (Built-in render pipeline)]]
+![[Screenshot 2026-07-01 164724.png]]
+
+[[Simple buoyancy system for immersive floaties]]
+![[Screenshot 2026-07-15 164745.png]]
+
+Music was made with SunoAI. Would love to be able to make my own sometime.

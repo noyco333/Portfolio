@@ -2,7 +2,7 @@
 title: Welcome!
 publish: true
 ---
-Hi! I'm [[Ryan Moriya]], and this is my portfolio / knowledgebase! Here I write articles about my experiments and studies mostly in programming.
+Hi! I'm [[Ryan Moriya]] (A.K.A. noyco / 8LEGS弟). This is my portfolio / knowledgebase! Here I write articles about my experiments and studies mostly in programming.
 
 # Featured Articles
 
