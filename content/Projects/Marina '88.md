@@ -53,6 +53,6 @@ Related article:[[Optimizing baked lighting in Unity (Built-in render pipeline)]
 ![[Screenshot 2026-07-01 164724.png]]
 
 [[Simple buoyancy system for immersive floaties]]
-![[Screenshot 2026-07-15 164745.png]]
+![[Screenshot 2026-07-15 164745 1.png]]
 
 Music was made with SunoAI. Would love to be able to make my own sometime.

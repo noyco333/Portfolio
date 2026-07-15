@@ -1,3 +1,6 @@
+---
+publish: true
+---
 July 15th 2026
 
 *tools: [[Unity]], [[Cluster]]*
@@ -8,7 +11,7 @@ July 15th 2026
 
 I achieved this by approximating how deep the object is submerged as a whole. Using only the object's Y position and comparing it to the water surface Y level would be inadequate because it cannot account for tilt. I resolved this by creating an arbitrary number of "buoy points" where the water depth is calculated. The up-force is applied individually at each buoy point according to its own depth using `$.addForceAt()`.
 
-![[Screenshot 2026-07-15 164745.png]]
+![[Screenshot 2026-07-15 164745 1.png]]
 *the "buoy points" of a floatie labeled as gray diamond icons*
 
 ![[a84e2a5c-4fd4-4b07-8108-790724671b9e.png]]
